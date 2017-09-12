@@ -1,2 +1,4 @@
 # hello-world
-first
+
+Hi KAM!
+I am Thapanee Boonchob. I want code.
